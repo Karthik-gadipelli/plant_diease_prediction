@@ -1,5 +1,5 @@
-import streamlit==1.18.1
-importtensorflow==2.12.0
-import numpy as np
-from PIL import Image, ImageDraw
-import cv2z
+streamlit
+tensorflow
+numpy
+Pillow
+opencv-python
