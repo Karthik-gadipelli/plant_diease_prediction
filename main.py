@@ -2,7 +2,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image, ImageDraw
-import cv2
+import opencv-python 4.11.0.86
 
 # Tensorflow Model Prediction
 def model_prediction(test_image, threshold=0.75):
