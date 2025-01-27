@@ -2,7 +2,6 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image
-import cv2
 
 # TensorFlow Model Prediction
 def model_prediction(image_path, threshold=0.75):
