@@ -1,6 +1,5 @@
-streamlit
-tensorflow
-numpy
-Pillow
-cv2
-logging
+streamlit==1.25.0
+tensorflow==2.12.0
+numpy==1.24.3
+Pillow==10.0.1
+opencv-python-headless==4.8.0.74
